@@ -1,0 +1,15 @@
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\configs\AppConfig.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\repo\LocationRepository.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\controllers\RateController.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\json\Rate.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\json\SingleRate.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\dto\LocationDTO.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\SpringGeoApplication.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\controllers\AdminController.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\services\LocationService.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\model\Location.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\services\LocationServiceImpl.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\configs\SecurityConfig.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\retrievers\GeoRetriever.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\retrievers\RateRetriever.java
+C:\ua\SpringGeo1\src\main\java\ua\kiev\prog\dto\PageCountDTO.java

@@ -1,0 +1,15 @@
+ua\kiev\prog\configs\SecurityConfig.class
+ua\kiev\prog\retrievers\GeoRetriever.class
+ua\kiev\prog\services\LocationServiceImpl.class
+ua\kiev\prog\SpringGeoApplication.class
+ua\kiev\prog\json\Rate.class
+ua\kiev\prog\dto\PageCountDTO.class
+ua\kiev\prog\json\SingleRate.class
+ua\kiev\prog\configs\AppConfig.class
+ua\kiev\prog\model\Location.class
+ua\kiev\prog\services\LocationService.class
+ua\kiev\prog\retrievers\RateRetriever.class
+ua\kiev\prog\controllers\RateController.class
+ua\kiev\prog\repo\LocationRepository.class
+ua\kiev\prog\dto\LocationDTO.class
+ua\kiev\prog\controllers\AdminController.class

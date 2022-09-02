@@ -9,8 +9,8 @@ import ua.kiev.prog.json.Rate;
 @Component
 public class RateRetriever {
 
-    private static final String URL = "https://api.apilayer.com/fixer/latest?apikey=yzy2WQjbLxnnyjdpbspjFPJasa9DAqI9";
-    //private static final String URL = "http://data.fixer.io/api/latest?access_key=30e7ff0de73cf99ac8842101abce80ca";
+    //private static final String URL = "https://api.apilayer.com/fixer/latest?apikey=yzy2WQjbLxnnyjdpbspjFPJasa9DAqI9";
+    private static final String URL = "http://data.fixer.io/api/latest?access_key=30e7ff0de73cf99ac8842101abce80ca";
 
     @Cacheable("rates")
     public Rate getRate() {
